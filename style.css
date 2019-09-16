@@ -1,0 +1,107 @@
+.login-popup-wrap
+{
+  border: 2px solid #f96d15;
+  border-radius: 15px;
+  padding-top: 10px;
+  margin-top: 10px;
+  margin-bottom: 50px;
+
+}
+.h4{
+  margin-left: 50px
+}
+input[type=text]:focus {
+  border: 3px solid #555;
+
+}
+.login-popup-heading  {
+    color: #f96d15;
+    font-size: 18px;
+    line-height: 30px;
+    align-content: center;}
+.new_reg_popup, .new_login_popup {
+    border-radius: 2px;
+    min-height: 332px;
+    width: 500px;
+    margin: 0 auto;
+    margin-bottom: 50px;
+}
+.login-popup-btn {
+    background: #28c3d4;
+    border: none;
+    border-radius: 25px;
+    color: #fff;
+    display: block;
+    font-size: 18px;
+    height: 38px;
+    line-height: 28px;
+    margin: 20px auto 5px 180px;
+    width: 150px;
+    -webkit-transition: all 700ms ease;
+    -moz-transition: all 700ms ease;
+    -ms-transition: all 700ms ease;
+    -o-transition: all 700ms ease;
+}
+.text-center{
+  margin-left: 20px;
+}
+a{
+     color: #f96d15;
+     font-size: 18px;
+}
+.form-group
+{
+
+  padding: 10px;
+}
+
+body{
+  margin: 0;
+            padding: 0;
+}
+.heading
+{
+  font-family: 'Dancing Script';
+  font-size: 2rem;
+}
+
+.main {
+
+  position: relative;
+  text-align: center;
+  color: white;
+  display: grid;
+  padding-bottom: 50px;
+  margin-left: 0;
+  
+
+
+
+
+}
+.image
+{
+  max-width: 100%;
+            max-height: 100%;
+            margin:auto;
+}
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-family: 'Montserrat';
+
+  font-weight: 900;
+  font-size: 3.5rem;
+  line-height: 1.5;
+  color:white;
+
+}
+.display {
+  padding: 0;
+  width: 100%;
+  height: 100%;
+
+
+}
